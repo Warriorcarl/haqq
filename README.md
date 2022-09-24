@@ -26,7 +26,7 @@ Setidaknya bandwidth jaringan 100mbps
 
 ### Install Otomatis
 ```
-wget -O haqq.sh https://raw.githubusercontent.com/bangpateng/haqq/main/haqq.sh && chmod +x haqq.sh && ./haqq.sh
+wget -O haqq.sh https://raw.githubusercontent.com/Warriorcarl/haqq/main/haqq.sh && chmod +x haqq.sh && ./haqq.sh
 ```
 
 ## Muat Variable
