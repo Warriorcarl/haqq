@@ -71,7 +71,7 @@ haqqd config keyring-backend test
 haqqd init $NODENAME --chain-id $HAQQ_CHAIN_ID
 
 # download genesis
-curl -OL https://storage.googleapis.com/haqq-testedge-snapshots/genesis.json
+curl -OL https://raw.githubusercontent.com/haqq-network/validators-contest/master/genesis.json
 mv genesis.json $HOME/.haqqd/config/genesis.json
 haqqd validate-genesis
 
